@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c6fc29d0.css",
+    "main.js": "/static/js/main.0ccc2426.js",
+    "static/media/cta-bg-web-1.webp": "/static/media/cta-bg-web-1.35955bb87baf967cd210.webp",
+    "static/media/BackgroundImage.webp": "/static/media/BackgroundImage.7be968dc2bd5ed6fa01f.webp",
+    "static/media/about 2.jpg": "/static/media/about 2.faed2e3759c4afa046b8.jpg",
+    "static/media/about 3.jpg": "/static/media/about 3.6374cf28045318c9d6a3.jpg",
+    "static/media/about 1.jpg": "/static/media/about 1.23f9902939e215e43905.jpg",
+    "static/media/bg-image.png": "/static/media/bg-image.73b51c2fb2a335bdeed4.png",
+    "static/media/webp": "/static/media/176fe5cb132e15a73d3a.3e9b2ab1c51cb73363fe.webp",
+    "static/media/logo.webp": "/static/media/logo.77811c72be69c4ca5756.webp",
+    "static/media/LBAproplan.webp": "/static/media/LBAproplan.5e240a493da7266ea4ee.webp",
+    "static/media/LBGeniebelt.webp": "/static/media/LBGeniebelt.c2f70b8fff81cf4a6b25.webp",
+    "index.html": "/index.html",
+    "main.c6fc29d0.css.map": "/static/css/main.c6fc29d0.css.map",
+    "main.0ccc2426.js.map": "/static/js/main.0ccc2426.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6fc29d0.css",
+    "static/js/main.0ccc2426.js"
+  ]
+}
