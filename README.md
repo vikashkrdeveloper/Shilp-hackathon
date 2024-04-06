@@ -1,88 +1,88 @@
-###Table of Contents 
+# Table of Contents 
 
-##Project Overview 
+## Project Overview 
 
-#Introduction 
+## Introduction 
 
-#Objectives 
+### Objectives 
 
-#Sustainability and Scalability 
+### Sustainability and Scalability 
 
-#Strategic Partnership 
+### Strategic Partnership 
 
-#User Documentation 
+### User Documentation 
 
-#A. Installation Guide 
+### A. Installation Guide 
 
-#Sign Up Process 
+### Sign Up Process 
 
-#Email Verification 
+### Email Verification 
 
-##Log In Instructions 
+## Log In Instructions 
 
-#Initial Setup 
+###  Initial Setup 
 
-#B. User Manual 
+### B. User Manual 
 
-#Home Page Navigation 
+### Home Page Navigation 
 
-#Using the Navigation Bar 
+### Using the Navigation Bar 
 
-#Solving Construction Site Problems 
+### Solving Construction Site Problems 
 
-#Support and Assistance 
+### Support and Assistance 
 
-###Project Reports 
+# Project Reports 
 
-#Meeting Notes (Date: 06-04-2024) 
+### Meeting Notes (Date: 06-04-2024) 
 
-#Technology Stack 
+### Technology Stack 
 
-#Hosting 
+### Hosting 
 
-#Focus Area 
+### Focus Area 
 
  
 
-#Progress Reports 
+### Progress Reports 
 
-#Accomplishments 
+### Accomplishments 
 
-#Next Steps 
+### Next Steps 
 
 #Long-Term Vision 
 
-#Contribution Guidelines 
+### Contribution Guidelines 
 
-#Code of Conduct 
+### Code of Conduct 
 
-#Contribution Process 
+### Contribution Process 
 
-#Getting Started 
+### Getting Started 
 
-#Making Changes 
+### Making Changes 
 
-#Submitting Contributions 
+### Submitting Contributions 
 
-#Reporting Issues 
+### Reporting Issues 
 
-#Requesting Features 
+### Requesting Features 
 
-#Version Control 
+### Version Control 
 
-#Benefits of Using Git 
+### Benefits of Using Git 
 
-#Basic Git Commands 
+### Basic Git Commands 
 
-#Workflow 
+### Workflow 
 
-#Best Practices 
-
- 
+### Best Practices 
 
  
 
-##Project Overview 
+ 
+
+## Project Overview 
 
 Our project presents a comprehensive solution for managing costs and maintenance, designed to enhance efficiency, sustainability, and scalability within operational frameworks. Developed with the foresight to address the intricate challenges of resource allocation and long-term asset management, this platform stands as a testament to innovation in the field of operational logistics. 
 
